@@ -1,0 +1,16 @@
+{
+  "homepage": "https://arkjuniork.github.io/trypleks",
+  "name": "trypleks",
+  "version": "1.0.0",
+  "description": "Todo App With Vue",
+  "main": "index.js",
+  "repository": "https://github.com/ArkjuniorK/trypleks",
+  "author": "ArkjuniorK",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
